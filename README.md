@@ -35,8 +35,8 @@ Make sure you have the following installed:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/<username>/<repository-name>.git
-   cd <repository-name>
+   git clone https://github.com/psai6274/wellness-retreats.git
+   cd wellness-retreats
    ```
 
 2. Install dependencies:
