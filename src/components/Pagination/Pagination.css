@@ -1,0 +1,13 @@
+.pagination {
+    display: flex;
+    justify-content: center;
+    margin: 1rem 0;
+}
+
+.pagination button {
+    margin: 0 0.5rem;
+    padding: 0.5rem 1rem;
+    background-color: rgb(24, 52, 78);
+    color: white;
+    border-radius: 10px;
+}
